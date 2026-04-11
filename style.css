@@ -126,3 +126,8 @@ nav ul li a:hover {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+iframe {
+    width: 100%;
+    border: 0;
+}
